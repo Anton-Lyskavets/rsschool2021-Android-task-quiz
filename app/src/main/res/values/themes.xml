@@ -24,4 +24,36 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">@color/yellow_100_dark</item>
     </style>
+
+    <style name="Theme.Quiz.Third" parent="Theme.Quiz">
+        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimaryDark">#4CAF50</item>
+        <item name="colorPrimaryVariant">#046510</item>
+        <item name="colorSecondary">#2BFB05</item>
+        <item name="colorSecondaryVariant">#CEDDC5</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#415C45</item>
+    </style>
+
+    <style name="Theme.Quiz.Fourth" parent="Theme.Quiz">
+        <item name="colorPrimary">#0B6AF4</item>
+        <item name="colorPrimaryDark">#2196F3</item>
+        <item name="colorPrimaryVariant">#647AA5</item>
+        <item name="colorSecondary">#00BCD4</item>
+        <item name="colorSecondaryVariant">#E6E8EF</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#7B7D8C</item>
+    </style>
+
+
+    <style name="Theme.Quiz.Fifth" parent="Theme.Quiz">
+        <item name="colorPrimary">#CCACAA</item>
+        <item name="colorPrimaryDark">#682C19</item>
+        <item name="colorPrimaryVariant">#A57464</item>
+        <item name="colorSecondary">#A14A2F</item>
+        <item name="colorSecondaryVariant">#EFE4E1</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#CD9F90</item>
+    </style>
+
 </resources>
